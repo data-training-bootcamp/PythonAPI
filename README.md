@@ -14,6 +14,10 @@ Fast API.  :  https://fastapi.tiangolo.com/tutorial/SQLALChemy:  https://docs
                ]
              }  
 
+3.  A PUT API to insert new products into product table. Include validations to check product id, name, description are not null.
+
+
+
 # Database 
 Create a database called as Recommendations.  
 
