@@ -6,7 +6,7 @@ Fast API.  :  https://fastapi.tiangolo.com/tutorial/SQLALChemy:  https://docs
 1. Implement a GET API to get a list of product recommendations
     Return :   {"productRecs":["Product1","Product2"]}
 
-    URL: http://localhost:8000/getProductRecommendations
+    URL: http://localhost:8000/getProductRecommendations?modelname=somename
 
 2. A GET API to get list of recommendations with product details
      Return : { "recommendations" : [
